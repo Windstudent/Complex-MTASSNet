@@ -379,7 +379,82 @@ In this multi-task separation, we have compared the proposed **Complex-MTASSNet*
 </tbody></table>
 
 
-### 3.2. Listening Demos (will be updated soon...)
+### 3.2. Listening Demos
+
+#### (1) Listening Demo 1
+[Mixture](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/mixture.wav)
+
+[ideal Speech](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/ideal_speech.wav)   |   [ideal Music](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/ideal_music.wav)   |   [ideal Noise](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/ideal_noise.wav)
+
+[Speech-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_speech_GCRN.wav)  |  [Music-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_music_GCRN.wav)  |  [Noise-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_noise_GCRN.wav)
+
+[Speech-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_speech_Demucs.wav)  |  [Music-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_music_Demucs.wav)  |  [Noise-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_noise_Demucs.wav)
+
+[Speech-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_speech_D3Net.wav)  |  [Music-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_music_D3Net.wav)  |  [Noise-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_noise_D3Net.wav)
+
+[Speech-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_speech_Conv_TasNet.wav)  |  [Music-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_music_Conv_TasNet.wav)  |  [Noise-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_noise_Conv_TasNet.wav)
+
+[Speech-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_speech_Complex_MTASSNet.wav)  |  [Music-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_music_Complex_MTASSNet.wav)  |  [Noise-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo1/separated_noise_Complex_MTASSNet.wav)
+
+#### (2) Listening Demo 2
+[Mixture](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/mixture.wav)
+
+[ideal Speech](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/ideal_speech.wav)   |   [ideal Music](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/ideal_music.wav)   |   [ideal Noise](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/ideal_noise.wav)
+
+[Speech-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_speech_GCRN.wav)  |  [Music-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_music_GCRN.wav)  |  [Noise-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_noise_GCRN.wav)
+
+[Speech-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_speech_Demucs.wav)  |  [Music-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_music_Demucs.wav)  |  [Noise-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_noise_Demucs.wav)
+
+[Speech-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_speech_D3Net.wav)  |  [Music-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_music_D3Net.wav)  |  [Noise-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_noise_D3Net.wav)
+
+[Speech-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_speech_Conv_TasNet.wav)  |  [Music-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_music_Conv_TasNet.wav)  |  [Noise-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_noise_Conv_TasNet.wav)
+
+[Speech-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_speech_Complex_MTASSNet.wav)  |  [Music-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_music_Complex_MTASSNet.wav)  |  [Noise-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo2/separated_noise_Complex_MTASSNet.wav)
+
+#### (3) Listening Demo 3
+[Mixture](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/mixture.wav)
+
+[ideal Speech](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/ideal_speech.wav)   |   [ideal Music](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/ideal_music.wav)   |   [ideal Noise](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/ideal_noise.wav)
+
+[Speech-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_speech_GCRN.wav)  |  [Music-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_music_GCRN.wav)  |  [Noise-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_noise_GCRN.wav)
+
+[Speech-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_speech_Demucs.wav)  |  [Music-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_music_Demucs.wav)  |  [Noise-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_noise_Demucs.wav)
+
+[Speech-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_speech_D3Net.wav)  |  [Music-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_music_D3Net.wav)  |  [Noise-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_noise_D3Net.wav)
+
+[Speech-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_speech_Conv_TasNet.wav)  |  [Music-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_music_Conv_TasNet.wav)  |  [Noise-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_noise_Conv_TasNet.wav)
+
+[Speech-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_speech_Complex_MTASSNet.wav)  |  [Music-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_music_Complex_MTASSNet.wav)  |  [Noise-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo3/separated_noise_Complex_MTASSNet.wav)
+
+#### (4) Listening Demo 4
+[Mixture](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/mixture.wav)
+
+[ideal Speech](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/ideal_speech.wav)   |   [ideal Music](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/ideal_music.wav)   |   [ideal Noise](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/ideal_noise.wav)
+
+[Speech-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_speech_GCRN.wav)  |  [Music-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_music_GCRN.wav)  |  [Noise-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_noise_GCRN.wav)
+
+[Speech-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_speech_Demucs.wav)  |  [Music-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_music_Demucs.wav)  |  [Noise-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_noise_Demucs.wav)
+
+[Speech-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_speech_D3Net.wav)  |  [Music-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_music_D3Net.wav)  |  [Noise-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_noise_D3Net.wav)
+
+[Speech-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_speech_Conv_TasNet.wav)  |  [Music-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_music_Conv_TasNet.wav)  |  [Noise-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_noise_Conv_TasNet.wav)
+
+[Speech-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_speech_Complex_MTASSNet.wav)  |  [Music-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_music_Complex_MTASSNet.wav)  |  [Noise-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo4/separated_noise_Complex_MTASSNet.wav)
+
+#### (4) Listening Demo 5
+[Mixture](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/mixture.wav)
+
+[ideal Speech](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/ideal_speech.wav)   |   [ideal Music](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/ideal_music.wav)   |   [ideal Noise](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/ideal_noise.wav)
+
+[Speech-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_speech_GCRN.wav)  |  [Music-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_music_GCRN.wav)  |  [Noise-GCRN](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_noise_GCRN.wav)
+
+[Speech-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_speech_Demucs.wav)  |  [Music-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_music_Demucs.wav)  |  [Noise-Demucs](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_noise_Demucs.wav)
+
+[Speech-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_speech_D3Net.wav)  |  [Music-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_music_D3Net.wav)  |  [Noise-D3Net](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_noise_D3Net.wav)
+
+[Speech-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_speech_Conv_TasNet.wav)  |  [Music-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_music_Conv_TasNet.wav)  |  [Noise-Conv-TasNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_noise_Conv_TasNet.wav)
+
+[Speech-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_speech_Complex_MTASSNet.wav)  |  [Music-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_music_Complex_MTASSNet.wav)  |  [Noise-Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/test_demos/demo5/separated_noise_Complex_MTASSNet.wav)
 
 
 -----------------------------------------------------------------------------------
