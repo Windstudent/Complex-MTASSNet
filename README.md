@@ -56,62 +56,71 @@ In this multi-task separation, we have compared the proposed **Complex-MTASSNet*
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
   <td rowspan="2" style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">Methods</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-font-kerning:0pt;mso-fareast-language:EN-US"><o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">Methods</span></b><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt;mso-fareast-language:
+  EN-US"><o:p></o:p></span></b></p>
   </td>
   <td rowspan="2" style="border:solid windowtext 1.0pt;border-left:none;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">Para.<o:p></o:p></span></p>
-  <p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-font-kerning:0pt">(millions)<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">Para.<o:p></o:p></span></b></p>
+  <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
+  0pt">(millions)</span></b><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt"><o:p></o:p></span></p>
   </td>
   <td rowspan="2" style="border:solid windowtext 1.0pt;border-left:none;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">MAC</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-font-kerning:0pt;mso-fareast-language:EN-US">/S<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">MAC/S<o:p></o:p></span></b></p>
   </td>
   <td colspan="4" valign="top" style="border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-font-kerning:0pt">SDRi</span></span><span lang="EN-US" style="font-size:
-  10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt"> (dB)<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">SDRi</span></b></span><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt"> (dB)<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:1">
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">Speech<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">Speech<o:p></o:p></span></b></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">Music<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">Music<o:p></o:p></span></b></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">Noise<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">Noise<o:p></o:p></span></b></p>
   </td>
   <td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:
-  0pt">Ave<o:p></o:p></span></p>
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-font-kerning:0pt">Ave<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2">
@@ -366,6 +375,7 @@ In this multi-task separation, we have compared the proposed **Complex-MTASSNet*
   </td>
  </tr>
 </tbody></table>
+
 
 ### 3.2. Listening Demos (will be updated soon...)
 
