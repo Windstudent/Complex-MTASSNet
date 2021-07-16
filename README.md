@@ -41,7 +41,7 @@ Chandan K. A. Reddy, Harishchandra Dubey, Vishak Gopal, and et al, “ICASSP 202
 
 ## 3. MTASS Baseline Model
 
-To tackle this challenging multi-task separation problem, we also proposed a baseline model to separate different tracks. Since this model works in the complex frequency domain for multi-task audio source separation, we call it “**Complex-MTASSNet**”. The **Complex-MTASSNet** separates the signal of each audio track in the complex domain, and further compensates the leaked residual signal for each track. The framework of this baseline model is shown in Figure 1.
+To tackle this challenging multi-task separation problem, we also proposed a baseline model to separate different tracks. Since this model works in the complex frequency domain for multi-task audio source separation, we call it “**Complex-MTASSNet**”. The **Complex-MTASSNet** separates the signal of each audio track in the complex domain, and further compensates the leaked residual signal for each track. The framework of this baseline model is shown in Figure 1. For more details of our model, please refer to our [paper](https://arxiv.org/abs/2107.06467).
 
 
 ![Fig 1. Complex-MTASSNet](https://github.com/Windstudent/Complex-MTASSNet/blob/main/Fig1.png)
