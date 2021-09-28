@@ -488,7 +488,18 @@ This file will be created to store the saved model files(.pth).
 
 ------------------------------------------------------------------------------------
 
-## 5. Copyright and Authors
+## 5. Citation
+
+If you use this code for your research, please consider citing:  
+
+@article{zhang2021multi,  
+  title={Multi-Task Audio Source Separation},  
+  author={Zhang, Lu and Li, Chenxing and Deng, Feng and Wang, Xiaorui},  
+  journal={arXiv preprint arXiv:2107.06467},  
+  year={2021}  
+}
+
+## 6. Copyright and Authors
 All rights reserved by Dr. Wind (zhanglu_wind@163.com).
 
 People shall use the source code here only for non-commercial research and educational purposes.
