@@ -472,7 +472,7 @@ This is the main file of the whole project, which is the main function for the f
 It contains a model file and its solver file, including the model information, feature extraction, model training and testing...  
 
 --**utils**:  
-It contains a utils library.py file, which has many audio data processing functions for processing numpy data format.  
+It contains a utils library file, which has many audio data processing functions for processing numpy data format.  
 
 --**train_data**:  
 This file will be created to store the extracted training features and labels.  
