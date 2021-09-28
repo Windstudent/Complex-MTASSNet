@@ -459,8 +459,17 @@ In this multi-task separation, we have compared the proposed **Complex-MTASSNet*
 
 -----------------------------------------------------------------------------------
 
-## 4. Usage (code and usage will be updated soon...)
+## 4. Usage
 
+The MTASS project contains two files: a model_constrcution file and a dataset_generation file (will be updated soon).
+### model_construction
+This file contains a run.py, which is the main function for the feature extraction, model training and model testing.
+Other files:
+--DNN_models: It contains a model file and its solver file, including the model information, feature extraction, model training and testing...
+--utils: It contains a utils library.py file, which has many audio data processing functions for processing numpy data format.
+--train_data: This file will be created to store the extracted training features and labels.
+--dev_data: This file will be created to store the extracted development features and labels.
+--model_parameters: This file will be created to store the saved model files(.pth). 
 
 
 
