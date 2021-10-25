@@ -495,8 +495,9 @@ If you use this code for your research, please consider citing:
 @article{zhang2021multi,  
   title={Multi-Task Audio Source Separation},  
   author={Zhang, Lu and Li, Chenxing and Deng, Feng and Wang, Xiaorui},  
-  journal={arXiv preprint arXiv:2107.06467},  
-  year={2021}  
+  booktitle={2021 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)},  
+  year={2021},  
+  organization={IEEE}   
 }
 
 ## 6. Copyright and Authors
