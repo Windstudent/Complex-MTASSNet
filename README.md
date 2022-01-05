@@ -462,7 +462,8 @@ In this multi-task separation, we have compared the proposed **Complex-MTASSNet*
 ## 4. Usage
 
 The MTASS project contains two files: a model constrcution file and a dataset generation file.
-#### 4.1 dataset_generation (will be updated soon...)
+#### 4.1 dataset_generation
+After downloading the original dataset, follow the instructions in /dataset_generation/readme.txt to generate your own MTASS dataset.
 
 #### 4.2 model_construction
 --**run.py**:  
