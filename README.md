@@ -506,9 +506,14 @@ If you use this code for your research, please consider citing:
 }
 
 ## 6. Copyright and Authors
-All rights reserved by Dr. Wind (zhanglu_wind@163.com).
+All rights reserved by Lu Zhang (zhanglu_wind@163.com).
+If you have any questions, please contact Lu Zhang (zhanglu_wind@163.com) and Chenxing Li (lichenxing007@gmail.com).
 
 People shall use the source code here only for non-commercial research and educational purposes.
+
+## 7. TODO
+2022-01-25
+We will open source the training code and pre-trained model in the next two weeks. If you would like to get pre-trained models earlier, or for more details, please contact us directly.
 
 
 
