@@ -1,6 +1,8 @@
 # Multi-Task Audio Source Separation (MTASS)
 
 =======================================================================================
+## 0. Pretrained model
+https://drive.google.com/file/d/1O2SVVKvDBzkJIjRuwpEkwVDCCpO821XE/view?usp=drive_link
 
 ## 1. Task Description
 
