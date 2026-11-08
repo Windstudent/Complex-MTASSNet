@@ -739,7 +739,7 @@ class Complex_MTASS_model:
         if continue_train == True:
             # Load the saved model
             model_saved_path = "./model_parameters/Complex_MTASS_1.0.pth"
-            net.module.load_state_dict(torch.load(model_saved_path))
+            net.module.load_state_dict(torch.load(model_saved_path, weights_only=True))
 
                       
         if show_model_size == True:
@@ -905,7 +905,7 @@ class Complex_MTASS_model:
         print('GPU Processing...') if gpuid >= 0 else print('CPU Processing...') 
         device = torch.device("cuda:{}".format(gpuid)) if gpuid >= 0 else torch.device("cpu")
         model_saved_path = "./model_parameters/Complex_MTASS_1.0.pth"
-        nnet.load_state_dict(torch.load(model_saved_path))
+        nnet.load_state_dict(torch.load(model_saved_path, weights_only=True))
         nnet = nnet.to(device) if gpuid >= 0 else nnet
         # Configure model for inference
         nnet.eval()
